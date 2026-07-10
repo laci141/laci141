@@ -41,6 +41,6 @@ Multi-source medical device intelligence platform (Go).
 
 `Go` · `SQLite` · `Docker` · `REST APIs` · `Kotlin/Compose (Android)` · `DSP/audio`
 
----
+----
 
 *All tools are educational/research use — never medical advice.*
