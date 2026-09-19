@@ -8,10 +8,10 @@ Go developer focused on **medical & scientific data intelligence** — CLIs, liv
 
 ## 🔭 Featured Project
 
-### [medical-device-intelligence](https://github.com/laci141/medical-device-intelligence)
+### [Claim-level evidence analysis across the scientific literature — transparent filtering, dual scoring, keyless via OpenAlex.](https://github.com/laci141/pubvera-corpova)
 Multi-source medical device intelligence platform (Go).
 
-**[🌐 Live Demo →](https://medical-device-intelligence.onrender.com)**
+**[🌐 Live  →](https://pubvera.com/)**
 
 - 23 CLI commands + HTTP API + responsive web UI
 - 12 hand-built explainable intelligence modules (telemetry, anomaly, compliance, benchmark, clustering, synthesis...)
